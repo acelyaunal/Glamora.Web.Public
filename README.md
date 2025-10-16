@@ -86,14 +86,14 @@ Kaynak kodu özel repoda tutulur ve izinsiz olarak kopyalanamaz veya dağıtıla
 Görseller, tasarım ve marka kimliği **Acelya Ünal**’a aittir.  
 
 > Projeyi incelemek veya referans amacıyla kod erişimi talep etmek isteyenler,  
-> [iletişime geçerek](mailto:acelyaunal.dev@gmail.com) özel erişim isteyebilirler.
+> [iletişime geçerek](mailto:acelyaunal1@hotmail.comm) özel erişim isteyebilirler.
 
 © 2025 Acelya Ünal — Tüm hakları saklıdır.
 
 ---
 
 ### 💌 İletişim
-📧 **E-posta:** [acelyaunal.dev@gmail.com](mailto:acelyaunal.dev@gmail.com)  
+📧 **E-posta:** [acelyaunal1@hotmail.com](mailto:acelyaunal1@hotmail.com)  
 💼 **GitHub:** [github.com/acelyaunal](https://github.com/acelyaunal)  
 
 ---
