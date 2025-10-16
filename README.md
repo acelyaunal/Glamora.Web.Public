@@ -50,12 +50,13 @@ Aşağıda proje yapısı, özellikleri ve arayüz görselleri yer almaktadır.
 | Bölüm | Ekran Görüntüsü |
 |-------|-----------------|
 | 🏠 Ana Sayfa | ![Hero](docs/media/hero.png) |
-| 💇‍♀️ Hizmetler | ![Hizmetler](docs/media/services.png) |
-| 💰 Fiyat Listesi | ![Fiyatlar](docs/media/pricing.png) |
-| 🖼️ Galeri | ![Galeri](docs/media/gallery.png) |
-| 👥 Ekip | ![Ekip](docs/media/team.png) |
+| 💇‍♀️ Hizmetler | ![Hizmetler](docs/media/hizmetler.png) |
+| 💰 Fiyat Listesi | ![Fiyatlar](docs/media/fiyatlar.png) |
+| 🖼️ Galeri | ![Galeri](docs/media/galeri.png) |
+| 👥 Ekip | ![Ekip](docs/media/ekip.png) |
 | 💬 Randevu Formu | ![Form](docs/media/form.png) |
 | 🌙 Karanlık Tema | ![Dark Mode](docs/media/dark.png) |
+
 
 > Görseller demo amaçlıdır. Kodlar paylaşılmamaktadır.  
 > Tüm görseller © Acelya Ünal’a aittir.
@@ -94,7 +95,6 @@ Görseller, tasarım ve marka kimliği **Acelya Ünal**’a aittir.
 ### 💌 İletişim
 📧 **E-posta:** [acelyaunal.dev@gmail.com](mailto:acelyaunal.dev@gmail.com)  
 💼 **GitHub:** [github.com/acelyaunal](https://github.com/acelyaunal)  
-🌐 **Portfolio:** (isteğe bağlı: kişisel web sitesi linki eklenecekse buraya)  
 
 ---
 
